@@ -1,13 +1,42 @@
-## Hi there 👋
+## Bem Vindo! Eu sou o Fernando, sou Dev Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
 
-Eu sou o Fernando, sou Programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
-<br>
-<br>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJesuss)](https://github.com/anuraghazra/github-readme-stats)
+##
 
 
-![FernandoGitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoJesuss&show_icons=true&theme=radical)
+
+
+<div >
+   
+  <a href = "fernando_ffernando@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernando-santos-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
+
+<div align="right">
+
+![Nome da imagem caso ela não carregue](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJesuss&layout=compact)
+
+</div><br>
+
+<div align="left">
+
+![FernandoGitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoJesuss&show_icons=true&theme=react)
+
+</div>
+
+
+
+
+
+
+
