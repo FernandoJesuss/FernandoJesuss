@@ -38,14 +38,13 @@
 
 </div>
 
-
 <!-- Portfólio -->
 <!-- GIF -->
 <!-- Habilidades -->
 ## 🔥Habilidades
 <!-- Habilidades: Linguagens de Programação -->
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <h3>Linguagens de Programação</h3>
   <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -53,6 +52,15 @@
  
 </div>
 
+<!--Habilidades: Ferramentas de Frameworks-->
+  <div style="flex-basis: 48%;">
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  </div>
+  
+  <!-- Skills: Libraries -->
 
 
 
