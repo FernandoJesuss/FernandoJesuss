@@ -1,4 +1,5 @@
-## Bem Vindo! Eu sou o Fernando, sou Dev Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
+## Bem-vindo! Eu sou o Fernando, desenvolvedor Front End. Atualmente, estou aprendendo e criando projetos com HTML e CSS, além de iniciar meu aprendizado em JavaScript e React.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
