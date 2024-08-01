@@ -1,4 +1,41 @@
-## Bem-vindo! Eu sou o Fernando, desenvolvedor Front End. Atualmente, estou aprendendo e criando projetos com HTML e CSS, além de iniciar meu aprendizado em JavaScript e React.
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Bem Vindos!!</h1></summary>
+</div>
+
+<!--Apresentação-->
+<p>
+  Olá 👋, eu sou Fernando! Um estudante apaixonado por Tecnologia.
+
+  - 🌱 Atualmente estou estudando Desenvolvimento Web no Dev/Club <img align="center" alt="html5" src="" />
+
+  - 🔭 Estou em busca da minha primeira oportunidade na área da programação, área pela qual sou profundamente apaixonado.
+</p>
+
+<!-- Dropdown -->
+  <summary>👨‍💻 Mais Sobre mim </summary>
+
+  - 💬 Tenho 36 anos, moro no Brasil. tenho experiência com HTML, CSS, JavaScript. atualmente estou estudado React.
+
+  - ⚡ Gosto de ler, Treinar e jogar futebol. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas \o/
+</details>
+
+<!-- Links -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div style="display: inline_block"><br>
