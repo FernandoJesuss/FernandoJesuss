@@ -22,7 +22,7 @@
 
 
 
-<div align="right">
+<div align="left">
 
 ![Nome da imagem caso ela não carregue](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJesuss&layout=compact)
 
