@@ -8,7 +8,7 @@
 <p>
   Olá 👋, eu sou Fernando! Um estudante apaixonado por Tecnologia.
 
-  - 🌱 Atualmente estou estudando Desenvolvimento Web no Dev/Club <img align="center" alt="html5" src="" />
+  - 🌱 Atualmente estou estudando Desenvolvimento Web no Dev/Club. 
 
   - 🔭 Estou em busca da minha primeira oportunidade na área da programação, área pela qual sou profundamente apaixonado.
 </p>
@@ -54,13 +54,13 @@
 
 <!--Habilidades: Ferramentas de Frameworks-->
   <div style="flex-basis: 48%;">
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <h3>Ferramentas e Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    
   </div>
   
-  <!-- Skills: Libraries -->
+  <!-- Habilidades: Bibliotecas -->
 
 
 
