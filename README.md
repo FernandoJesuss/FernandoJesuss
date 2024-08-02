@@ -19,7 +19,7 @@
 
   - 💬 Tenho 36 anos, sou de São Paulo. tenho experiência com HTML, CSS, JavaScript. atualmente estou estudado React.
 
-  - ⚡ Gosto de ler, Treinar e jogar futebol. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas \o/
+  - ⚡ Gosto de ler, Treinar e jogar futebol. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
 </details>
 
 <!--links-->
