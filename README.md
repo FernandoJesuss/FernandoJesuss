@@ -27,7 +27,10 @@
    
  <!-- <a href = ""><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/fernando-santos-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+   <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank"><img src="https://github.com/user-attachments/assets/b253391b-27af-4c00-a759-2bfc45dfda84" target="_blank"></a> 
+
+  ![Frame 14])
+
 </div>
 
 <!-- Estatísticas do GitHub -->
