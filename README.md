@@ -52,23 +52,33 @@
 <!-- Habilidades: Linguagens de Programação -->
 <div style="display: inline_block">
   <h3>Linguagens de Programação</h3>
-  <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+
+
+  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) |
+|:---:|:---:|:---:|:---:|
+| **JavaScript**: Desenvolvimento dinâmico. | **React**: Interfaces eficientes. | **HTML5**: Estruturas robustas. | **CSS3**: Design responsivo. |
+  
+<!--  <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  
 </div>
 
 <!--Habilidades: Ferramentas de Frameworks-->
   <div style="flex-basis: 48%;">
     <h3>Tecnologias e Ferramentas</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+| ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+|:---:|:---:|:---:|:---:|
+| **VS Code**: Meu editor preferido. | **AWS**: Soluções em nuvem. | **Git**: Controle de versão. | **Figma**: Design de interfaces.           |
+
+
+
+ <!--   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://github.com/user-attachments/assets/ddf319b4-ff0e-4507-897d-f057ea62af4d">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://github.com/user-attachments/assets/0225dd6e-8bda-44ea-83dc-d8b82806c153">
-
-
- 
+    <img align="center" alt="Git" height="30" width="40" src="https://github.com/user-attachments/assets/0225dd6e-8bda-44ea-83dc-d8b82806c153"> 
     
   </div>
   
@@ -76,6 +86,7 @@
 ##
 
 <br>
+
 
 
 
