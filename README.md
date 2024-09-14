@@ -28,7 +28,7 @@
   <tr>
     <td>
       <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b253391b-27af-4c00-a759-2bfc45dfda84" alt="Portfólio" target="_blank"> />
+        <img src="https://github.com/user-attachments/assets/b253391b-27af-4c00-a759-2bfc45dfda84" alt="Portfólio" target="_blank"/>
       </a>
     </td>
     <td>
