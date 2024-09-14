@@ -3,14 +3,11 @@
   <ul align="center">
         <img src="https://github.com/user-attachments/assets/41f9d559-a934-4dca-b11b-06444aa83c05" target="_blank"></a> 
 
-
-  
 </div>
-
+<br>
 <!--Apresentação-->
 <p>
-  Olá 👋, eu sou Fernando! Um estudante apaixonado por Tecnologia.
-
+  
   - 🌱 Atualmente estou estudando Desenvolvimento Web no Dev/Club. 
 
   - 🔭 Estou em busca da minha primeira oportunidade na área da programação, área pela qual sou profundamente apaixonado.
