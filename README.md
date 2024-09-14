@@ -22,27 +22,28 @@
   - ⚡ Gosto de ler, Treinar e jogar futebol. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
 </details>
 
-<div align="left">
-   <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank"><img src="https://github.com/user-attachments/assets/b253391b-27af-4c00-a759-2bfc45dfda84" target="_blank"></a> 
-</div>
-<!--links-->
-<div >
-   
- <!-- <a href = ""><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/fernando-santos-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- Tabela redes -->
 
-
-  
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/b253391b-27af-4c00-a759-2bfc45dfda84" alt="Portfólio" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/fernando-santos-jesus/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Estatísticas do GitHub -->
 
-<div align="left">
 
-![FernandoGitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoJesuss&show_icons=true&theme=react)
-
-</div>
+| ![FernandoGitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoJesuss&show_icons=true&theme=react) | ![Nome da imagem caso ela não carregue](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJesuss&layout=compact) |
+|---|---|
 
 <!-- Portfólio -->
 <!-- GIF -->
@@ -69,11 +70,7 @@
   <!-- Habilidades: Bibliotecas -->
 ##
 
-<div align="left">
-
-![Nome da imagem caso ela não carregue](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJesuss&layout=compact)
-
-</div><br>
+<br>
 
 
 
