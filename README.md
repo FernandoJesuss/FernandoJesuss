@@ -63,7 +63,12 @@
   <div style="flex-basis: 48%;">
     <h3>Tecnologias e Ferramentas</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://github.com/user-attachments/assets/ddf319b4-ff0e-4507-897d-f057ea62af4d">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://github.com/user-attachments/assets/0225dd6e-8bda-44ea-83dc-d8b82806c153">
+
+
+ 
     
   </div>
   
