@@ -42,7 +42,7 @@
 <!-- Estatísticas do GitHub -->
 
 
-| ![FernandoGitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoJesuss&show_icons=true&theme=react) | ![Nome da imagem caso ela não carregue](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJesuss&layout=compact) |
+| ![FernandoGitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoJesuss&show_icons=true&theme=chartreuse-dark) | ![Nome da imagem caso ela não carregue](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJesuss&layout=compact) |
 |---|---|
 
 <!-- Portfólio -->
