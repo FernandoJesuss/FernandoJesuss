@@ -100,7 +100,7 @@
 <!-- Snake Game -->
 <p align="center">
   
-<img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/output/github-user-contribution.svg" />
+<img alt="GitHub Activity Graph" src="https://github.com/FernandoJesuss/FernandoJesuss/blob/main/github-user-contribution.svg" />
 
 </p>
 
