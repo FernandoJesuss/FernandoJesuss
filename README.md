@@ -97,7 +97,10 @@
 
 <br>
 
-
+<!-- Snake Game -->
+<p align="center">
+  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritode/output/github-contribution-grid-snake.svg">
+</p>
 
 <!-- Rodapé Onda -->
 <p align="center">
