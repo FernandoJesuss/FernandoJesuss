@@ -64,9 +64,9 @@
   <h3>Linguagens de Programação</h3>
 
 
-  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) |
-|:---:|:---:|:---:|:---:|
-| **JavaScript**: Desenvolvimento dinâmico. | **React**: Interfaces eficientes. | **HTML5**: Estruturas robustas. | **CSS3**: Design responsivo. |
+  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) |  ![noejs]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+|:---:|:---:|:---:|:---:|:---:|
+| **JavaScript**: Desenvolvimento dinâmico. | **React**: Interfaces eficientes. | **HTML5**: Estruturas robustas. | **CSS3**: Design responsivo. | **Node.js**: Backend |
   
 <!--  <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -79,9 +79,9 @@
   <div style="flex-basis: 48%;">
     <h3>Tecnologias e Ferramentas</h3>
 
-| ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-|:---:|:---:|:---:|:---:|
-| **VS Code**: Meu editor preferido. | **AWS**: Soluções em nuvem. | **Git**: Controle de versão. | **Figma**: Design de interfaces.           |
+| ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![noejs]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+|:---:|:---:|:---:|:---:|:---:|
+| **VS Code**: Meu editor preferido. | **AWS**: Soluções em nuvem. | **Git**: Controle de versão. | **Figma**: Design de interfaces. | **Node.js**: Backend |
 
 
 
