@@ -77,11 +77,24 @@
 
 <!--Habilidades: Ferramentas de Frameworks-->
   <div style="flex-basis: 48%;">
+    
+| ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | 
+|:---:|:---:|
+| **JSON**: Script. | **TypeScript**: Tipagem  |      |
+
+
+<!--Habilidades: Ferramentas de Frameworks-->
+  <div style="flex-basis: 48%;">
     <h3>Tecnologias e Ferramentas</h3>
 
-| ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![noejs]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+| ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 |:---:|:---:|:---:|:---:|:---:|
-| **VS Code**: Meu editor preferido. | **AWS**: Soluções em nuvem. | **Git**: Controle de versão. | **Figma**: Design de interfaces. | **Node.js**: Backend |
+| **VS Code**: Meu editor preferido. | **AWS**: Soluções em nuvem. | **Git**: Controle de versão local. | **Figma**: Design de interfaces. | **GitHub**:  Controle de versão na nuvem |
+
+
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+|:---:|:---:|
+| **MongoDB**: Banco de Dados. | **AWS**: Soluções em nuvem. | 
 
 
 
