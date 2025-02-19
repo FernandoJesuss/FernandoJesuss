@@ -92,9 +92,9 @@
 | **VS Code**: Meu editor preferido. | **AWS**: Soluções em nuvem. | **Git**: Controle de versão local. | **Figma**: Design de interfaces. | **GitHub**:  Controle de versão na nuvem |
 
 
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
-|:---:|:---:|
-| **MongoDB**: Banco de Dados. | **AWS**: Soluções em nuvem. | 
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![DOCKER](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) |  ![Microsoft](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+|:---:|:---:|:---:
+| **MongoDB**: Banco de Dados. | **DOCKER**: Gerenciar aplicativos em contêineres. |  **Microsoft Azure**: Soluções em Nuvem. |
 
 
 
