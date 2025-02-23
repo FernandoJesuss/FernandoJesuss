@@ -27,7 +27,12 @@
 <details>
   <summary>👨‍💻 Mais Sobre mim </summary>
 
-  - 💬 Tenho 36 anos e sou de São Paulo. Tenho experiência com HTML, CSS e JavaScript, e atualmente estou estudando React.
+  - 💬 Profissional em fase de transição de carreira da área de Análise de Suporte para a área de Desenvolvimento Web. 
+Experiência em contribuir no desenvolvimento de projetos, garantindo o alinhamento com as últimas tendência e 
+ferramentas do setor, tais como aplicações de tecnologias. Vivência na utilização de linguagens de programação 
+como HTML, CSS, JavaScript, Node.js, React, TypeScript, MongoDB, Git, GitHub, Figma, Azure e AWS. promovendo o 
+desenvolvimento de projetos, aplicativos, sistemas web e softwares personalizados atuando com Front end. 
+Habilidades em compreender as necessidades dos usuários e clientes aplicando soluções eficientes. 
 
   - ⚡ Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
 </details>
