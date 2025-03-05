@@ -128,7 +128,7 @@ Habilidades em compreender as necessidades dos usuários e clientes aplicando so
 
 <!-- Rodapé Onda -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f104fe&section=footer&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=32102b&section=footer&reversal=true"/>
 </p>
 
 
