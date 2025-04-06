@@ -33,12 +33,9 @@
 <details>
   <summary>👨‍💻 Mais Sobre mim </summary>
 
-  - 💬 Profissional em fase de transição de carreira da área de Análise de Suporte para a área de Desenvolvimento Web. 
-Experiência em contribuir no desenvolvimento de projetos, garantindo o alinhamento com as últimas tendência e 
-ferramentas do setor, tais como aplicações de tecnologias. Vivência na utilização de linguagens de programação 
-como HTML, CSS, JavaScript, Node.js, React, TypeScript, MongoDB, Git, GitHub, Figma, Azure e AWS. promovendo o 
-desenvolvimento de projetos, aplicativos, sistemas web e softwares personalizados atuando com Front end. 
-Habilidades em compreender as necessidades dos usuários e clientes aplicando soluções eficientes. 
+  - 💬 Profissional em transição de carreira da área de Análise de Suporte para Desenvolvimento Web. Tenho experiência em contribuir para o desenvolvimento de projetos, garantindo alinhamento com as últimas tendências e ferramentas do setor, incluindo diversas tecnologias. Possuo vivência em linguagens de programação como HTML, CSS, JavaScript, Node.js, React, TypeScript, MongoDB, Git, GitHub, Figma, Azure e AWS, promovendo a criação de projetos, aplicativos, sistemas web e softwares personalizados com foco em Front End.
+
+Minhas habilidades incluem a capacidade de compreender as necessidades de usuários e clientes, aplicando soluções eficientes para atender a essas demandas. 
 
   - ⚡Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais enriquecem nossa visão e nos ajudam a resolver problemas de maneira mais eficaz.\o/
 </details>
