@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p>
   
-  - 🌱 Atualmente estou estudando Desenvolvimento Web no Dev/Club. 
+  - 🌱 Atualmente estou estudando Desenvolvimento Full Stack no Dev/Club. 
 
   - 🔭 Estou em busca da minha primeira oportunidade na área da programação, área pela qual sou profundamente apaixonado.
 </p>
