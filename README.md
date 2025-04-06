@@ -40,7 +40,7 @@ como HTML, CSS, JavaScript, Node.js, React, TypeScript, MongoDB, Git, GitHub, Fi
 desenvolvimento de projetos, aplicativos, sistemas web e softwares personalizados atuando com Front end. 
 Habilidades em compreender as necessidades dos usuários e clientes aplicando soluções eficientes. 
 
-  - ⚡ Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
+  - ⚡Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais enriquecem nossa visão e nos ajudam a resolver problemas de maneira mais eficaz.\o/
 </details>
 
 <!-- Tabela redes -->
