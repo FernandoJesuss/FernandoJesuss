@@ -11,6 +11,7 @@
   
 </p>
 
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -20,32 +21,35 @@
 
 </div>
 <br>
-<!--Apresentação  cracha-->
-<a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
-        <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" target="_blank"/>
-</a>
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
-<p>
-  
-  - 🌱 Atualmente estou estudando Desenvolvimento Full Stack no Dev/Club. 
-
-  - 🔭 Estou em busca da minha primeira oportunidade na área da programação, área pela qual sou profundamente apaixonado.
+<p align="left">
+  - 🌱 Atualmente estou estudando Desenvolvimento Full Stack no Dev/Club.<br>
+  - 🔭 Estou em busca da minha primeira oportunidade na área da programação.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais Sobre mim </summary><br>
+  <summary>👨‍💻 Mais Sobre mim</summary><br>
 
   - 💬 Profissional em transição de carreira da área de Análise de Suporte para Desenvolvimento Web. Tenho experiência em contribuir para o desenvolvimento de projetos, garantindo alinhamento com as últimas tendências e ferramentas do setor, incluindo diversas tecnologias. Possuo vivência em linguagens de programação como HTML, CSS, JavaScript, Node.js, React, TypeScript, MongoDB, Git, GitHub, Figma, Azure e AWS, promovendo a criação de projetos, aplicativos, sistemas web e softwares personalizados com foco em Front End.
 
-Minhas habilidades incluem a capacidade de compreender as necessidades de usuários e clientes, aplicando soluções eficientes para atender a essas demandas. 
+  Minhas habilidades incluem a capacidade de compreender as necessidades de usuários e clientes, aplicando soluções eficientes para atender a essas demandas.<br><br>
 
-  - ⚡Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais enriquecem nossa visão e nos ajudam a resolver problemas de maneira mais eficaz.\o/
+  - ⚡ Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais enriquecem nossa visão e nos ajudam a resolver problemas de maneira mais eficaz.\o/
 </details>
+
+<p align="right"/>
+<!--Apresentação  cracha-->
+<a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
+        <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" target="_blank"/>
+</a>
+
+  </p>
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
+
 
 <!-- Tabela redes -->
 
-<table>
+<!--<table>
   <tr>
     <td>
       <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
@@ -58,7 +62,7 @@ Minhas habilidades incluem a capacidade de compreender as necessidades de usuár
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- Estatísticas do GitHub -->
 
