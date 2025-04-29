@@ -21,7 +21,9 @@
 </div>
 <br>
 <!--Apresentação-->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
+        <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" target="_blank"/>
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 <p>
   
   - 🌱 Atualmente estou estudando Desenvolvimento Full Stack no Dev/Club. 
