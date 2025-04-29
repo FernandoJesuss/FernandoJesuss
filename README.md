@@ -20,9 +20,10 @@
 
 </div>
 <br>
-<!--Apresentação-->
+<!--Apresentação  cracha-->
 <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
         <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" target="_blank"/>
+</a>
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 <p>
   
