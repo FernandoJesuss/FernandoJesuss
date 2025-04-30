@@ -21,29 +21,44 @@
 
 </div>
 <br>
-<p align="left">
-  - 🌱 Atualmente estou estudando Desenvolvimento Full Stack no Dev/Club.<br>
-  - 🔭 Estou em busca da minha primeira oportunidade na área da programação.
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <p style="max-width: 200px;">
+        <ul>
+          <li>🌱 Atualmente estou estudando Desenvolvimento Full Stack no Dev/Club.</li>
+          <li>🔭 Estou em busca da minha primeira oportunidade na área da programação.</li>
+        </ul>
+      </p>
 
-<!-- Dropdown -->
-<details>
+  <!-- Dropdown -->
+  <details style="max-width: 200px;">
   <summary>👨‍💻 Mais Sobre mim</summary><br>
 
-  - 💬 Profissional em transição de carreira da área de Análise de Suporte para Desenvolvimento Web. Tenho experiência em contribuir para o desenvolvimento de projetos, garantindo alinhamento com as últimas tendências e ferramentas do setor, incluindo diversas tecnologias. Possuo vivência em linguagens de programação como HTML, CSS, JavaScript, Node.js, React, TypeScript, MongoDB, Git, GitHub, Figma, Azure e AWS, promovendo a criação de projetos, aplicativos, sistemas web e softwares personalizados com foco em Front End.
+  <ul>
+          <li>💬 Profissional em transição de carreira da área de Análise de Suporte para Desenvolvimento Web. Tenho experiência em contribuir para o desenvolvimento de projetos, garantindo alinhamento com as últimas tendências e ferramentas do setor, incluindo diversas tecnologias.</li>
+          <li>Possuo vivência em linguagens de programação como HTML, CSS, JavaScript, Node.js, React, TypeScript, MongoDB, Git, GitHub, Figma, Azure e AWS, promovendo a criação de projetos, aplicativos, sistemas web e softwares personalizados com foco em Front End.</li>
+          <li>Minhas habilidades incluem a capacidade de compreender as necessidades de usuários e clientes, aplicando soluções eficientes para atender a essas demandas.</li>
+          <li>⚡ Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais enriquecem nossa visão e nos ajudam a resolver problemas de maneira mais eficaz.\o/</li>
+        </ul>
+      </details>
+    </td>
+    <td valign="top">
+      <p align="right">
+        <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
+          <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" alt="Crachá" style="max-width: 200px;"/> 
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  Minhas habilidades incluem a capacidade de compreender as necessidades de usuários e clientes, aplicando soluções eficientes para atender a essas demandas.<br><br>
 
-  - ⚡ Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais enriquecem nossa visão e nos ajudam a resolver problemas de maneira mais eficaz.\o/
-</details>
 
-<p align="right"/>
-<!--Apresentação  cracha-->
-<a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
-        <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" target="_blank"/>
-</a>
 
-  </p>
+
+
+
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
 
