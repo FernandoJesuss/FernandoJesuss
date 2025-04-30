@@ -27,7 +27,7 @@
       <p style="max-width: 200px;">
         <ul>
           <li>🌱 Atualmente estou estudando Desenvolvimento Full Stack no Dev/Club.</li>
-          <li>🔭 Estou em busca da minha primeira oportunidade na área da programação.</li>
+          <li>🔭 Desenvolvedor Front End Transição de Carreira Apaixonado por Tecnologia..</li>
         </ul>
       </p>
 
