@@ -36,11 +36,9 @@
   <summary>👨‍💻 Mais Sobre mim</summary><br>
 
   <ul>
-          <li>💬 Profissional em transição de carreira da área de Análise de Suporte para Desenvolvimento Web. Tenho experiência em contribuir para o desenvolvimento de projetos, garantindo alinhamento com as últimas tendências e ferramentas do setor, incluindo diversas tecnologias.</li>
-          <li>Possuo vivência em linguagens de programação como HTML, CSS, JavaScript, Node.js, React, TypeScript, MongoDB, Git, GitHub, Figma, Azure e AWS, promovendo a criação de projetos, aplicativos, sistemas web e softwares personalizados com foco em Front End.</li>
-          <li>Minhas habilidades incluem a capacidade de compreender as necessidades de usuários e clientes, aplicando soluções eficientes para atender a essas demandas.</li>
-          <li>⚡ Gosto de ler, treinar e jogar futebol. Acredito que nossos interesses pessoais enriquecem nossa visão e nos ajudam a resolver problemas de maneira mais eficaz.\o/</li>
-        </ul>
+          <li>💬Olá! Sou Fernando, um profissional determinado e em transição de carreira, trazendo uma bagagem valiosa da área de suporte e análise técnica para o universo da programação. A tecnologia sempre me fascinou pela sua capacidade de transformar o mundo, e agora estou canalizando essa paixão para construir soluções inovadoras e impactantes no desenvolvimento web.</li>
+          
+   </ul>
       </details>
     </td>
     <td valign="top">
