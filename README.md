@@ -11,16 +11,14 @@
   
 </p>
 
-
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-        <img  src="https://github.com/FernandoJesuss/Fogos_Artificios/blob/main/img/Cover.svg"  target="_blank"></a> 
-
-        
+        <img  src="https://github.com/FernandoJesuss/Fogos_Artificios/blob/main/img/Cover.svg"  target="_blank"></a>      
 
 </div>
 <br>
+
 <table>
   <tr>
     <td valign="top">
@@ -44,7 +42,7 @@
     <td valign="top">
       <p align="right">
         <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
-          <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" alt="Crachá" style="max-width: 200px;"/> 
+          <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" style="max-width: 200px;"/> 
         </a>
       </p>
     </td>
@@ -86,8 +84,9 @@
 <!-- Portfólio -->
 <!-- GIF -->
 <!-- Habilidades -->
-## 🔥Habilidades
+<!--## 🔥Habilid -->
 <!-- Habilidades: Linguagens de Programação -->
+<!--
 <div style="display: inline_block">
   <h3>Linguagens de Programação</h3>
 
@@ -95,7 +94,12 @@
   | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) |  ![noejs]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 |:---:|:---:|:---:|:---:|:---:|
 | **JavaScript**: Desenvolvimento dinâmico. | **React**: Interfaces eficientes. | **HTML5**: Estruturas robustas. | **CSS3**: Design responsivo. | **Node.js**: Backend |
-  
+
+
+
+
+
+  -->
 <!--  <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Nando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -103,12 +107,7 @@
   
 </div>
 
-<!--Habilidades: Ferramentas de Frameworks-->
-  <div style="flex-basis: 48%;">
-    
-| ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | 
-|:---:|:---:|
-| **JSON**: Script. | **TypeScript**: Tipagem  |      |
+  |
 
 
 <!--Habilidades: Ferramentas de Frameworks-->
