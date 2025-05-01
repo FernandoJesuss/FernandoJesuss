@@ -7,15 +7,12 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=f104fe&background=282A36&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG">
   </a>
-<!-- <img src="https://github.com/FernandoJesuss/Fogos_Artificios/blob/main/img/Cover.svg" /> -->
-  
 </p>
 
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
         <img  src="https://github.com/FernandoJesuss/Fogos_Artificios/blob/main/img/Cover.svg"  target="_blank"></a>      
-
 </div>
 <br>
 
@@ -34,7 +31,7 @@
   <summary>👨‍💻 Mais Sobre mim</summary><br>
 
   <ul>
-          <li>💬Olá! Sou Fernando, um profissional determinado e em transição de carreira, trazendo uma bagagem valiosa da área de suporte e análise técnica para o universo da programação. A tecnologia sempre me fascinou pela sua capacidade de transformar o mundo, e agora estou canalizando essa paixão para construir soluções inovadoras e impactantes no desenvolvimento web.</li>
+          <li>💬Olá! Sou Fernando, um profissional determinado e em transição de carreira, <br>trazendo uma bagagem valiosa da área de  análise de suporte técnico para <br>o universo da programação.<br> A tecnologia sempre me fascinou pela sua capacidade de transformar o mundo, <br>e agora estou canalizando essa paixão para construir soluções inovadoras e <br>impactantes no desenvolvimento web.</li>
           
    </ul>
       </details>
