@@ -39,7 +39,7 @@
     <td valign="top">
       <p align="right">
         <a href="https://fernandojesuss.github.io/ProjetoPortifolio/" target="_blank">
-          <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar.png" style="max-width: 200px;"/> 
+          <img src="https://github.com/FernandoJesuss/CrachaPerfil/blob/main/img/crachar%20Programadorr.svg" style="max-width: 200px;"/> 
         </a>
       </p>
     </td>
