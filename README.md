@@ -2,18 +2,19 @@
 ## Desenvolvedor Front-End | Em Transição para Full Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+Especializado;Estudando+para+Full+Stack;Experiência+em+Suporte+Técnico" alt="Professional Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+Especializado;Estudando+para+Full+Stack;Microsoft+Certified+Professional" alt="Professional Title"/>
 </div>
 
 ---
 
 ## 👨‍💼 Perfil Profissional
 
-**Desenvolvedor Front-End** com sólida experiência em análise de suporte técnico e atual especialização em desenvolvimento web front-end. Em transição para desenvolvimento full stack, focado em criar interfaces de usuário modernas e responsivas, combinando conhecimento técnico com excelentes habilidades de resolução de problemas.
+**Desenvolvedor Front-End** com sólida experiência em análise de suporte técnico e atual especialização em desenvolvimento web front-end. **Microsoft Certified Professional** em transição para desenvolvimento full stack, focado em criar interfaces de usuário modernas e responsivas, combinando conhecimento técnico com excelentes habilidades de resolução de problemas.
 
 ### 📋 Informações Profissionais
 - **Posição Atual:** Desenvolvedor Front-End
 - **Formação:** Desenvolvimento Full Stack - Dev/Club (em andamento)
+- **Certificações:** Microsoft Azure & Security Fundamentals
 - **Experiência Prévia:** Análise de Suporte Técnico
 - **Localização:** Brasil
 - **Disponibilidade:** Aberto a oportunidades em Front-End
@@ -23,6 +24,20 @@
 - Evoluir para desenvolvedor full stack completo
 - Aplicar experiência em suporte técnico para criar interfaces user-friendly
 - Crescer profissionalmente em ambiente de desenvolvimento web
+
+---
+
+## 🏆 Certificações Profissionais
+
+<div align="center">
+
+### Microsoft Certified
+[![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/seu-badge-azure-fundamentals)
+[![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/seu-badge-security)
+[![AI Fundamentals](https://img.shields.io/badge/AI_Fundamentals-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/seu-badge-ai)
+[![Data Fundamentals](https://img.shields.io/badge/Data_Fundamentals-1BA1E2?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/seu-badge-data)
+
+</div>
 
 ---
 
@@ -44,9 +59,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### Plataformas Cloud (Em Estudo)
+### Plataformas Cloud
+![Microsoft Azure](https://img.shields.io/badge/Azure_Certified-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
@@ -99,6 +114,7 @@
 - Deployment e DevOps básico
 
 **Certificações e Formações:**
+- **Microsoft Certified:** Azure, Security, AI & Data Fundamentals
 - Desenvolvimento Full Stack - Dev/Club (em andamento)
 - Experiência prática em análise de suporte técnico
 
@@ -106,6 +122,7 @@
 
 ## 📈 Diferenciais Profissionais
 
+- **Microsoft Certified Professional:** Conhecimento validado em cloud e segurança
 - **Experiência em Suporte Técnico:** Compreensão das necessidades do usuário final
 - **Foco em UX/UI:** Interfaces intuitivas baseadas na experiência com usuários
 - **Resolução de Problemas:** Habilidade para diagnosticar questões de interface
@@ -122,6 +139,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fernandojesuss.github.io/ProjetoPortifolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-santos-jesus/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandobcl@yahoo.com.br)
+[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/seu-perfil-credly)
 
 </div>
 
@@ -132,45 +150,8 @@
 </div>
 
 <div align="center">
-  <strong>Disponível para oportunidades em Front-End | Em desenvolvimento para Full Stack</strong>
+  <strong>Microsoft Certified Professional | Disponível para oportunidades em Front-End | Em desenvolvimento para Full Stack</strong>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
