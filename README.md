@@ -32,10 +32,10 @@
 <div align="center">
 
 ### Microsoft Certified
-[![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/seu-badge-azure-fundamentals)
-[![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/seu-badge-security)
-[![AI Fundamentals](https://img.shields.io/badge/AI_Fundamentals-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/seu-badge-ai)
-[![Data Fundamentals](https://img.shields.io/badge/Data_Fundamentals-1BA1E2?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/seu-badge-data)
+[![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/a7b79fef-f270-413e-a066-78233658882c/public_url)
+[![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/5368f659-f682-446a-9b28-5651bff52dc9/public_url)
+[![AI Fundamentals](https://img.shields.io/badge/AI_Fundamentals-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/6bbbeae9-23c8-469f-bb8a-0360b45fed7d/public_url)
+[![Data Fundamentals](https://img.shields.io/badge/Data_Fundamentals-1BA1E2?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/63e34aa8-c820-4e1e-81c2-a617a75a10e8/public_url)
 
 </div>
 
