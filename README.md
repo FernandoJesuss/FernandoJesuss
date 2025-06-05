@@ -90,6 +90,13 @@
 - **Foco:** Design responsivo, UX/UI modernas, otimização front-end
 - **Objetivo:** Demonstrar competências em desenvolvimento front-end
 
+### [DevBurguer - Sistema E-commerce Full-Stack](https://github.com/FernandoJesuss/devburger_interface)
+**Aplicação completa de lanchonete digital com autenticação, pagamentos e painel administrativo**
+* **Tecnologias:** React.js, Node.js, Express, PostgreSQL, Stripe, JWT
+* **Foco:** Desenvolvimento full-stack, integração de pagamentos, arquitetura escalável
+* **Objetivo:** Demonstrar domínio completo do desenvolvimento web moderno
+
+
 ### [Aplicação de Animações Interativas](https://github.com/FernandoJesuss/Fogos_Artificios)
 **Interface web com animações CSS e JavaScript avançadas**
 - **Tecnologias:** JavaScript ES6+, Canvas API, CSS3
@@ -152,8 +159,6 @@
 <div align="center">
   <strong>Microsoft Certified Professional | Disponível para oportunidades em Front-End | Em desenvolvimento para Full Stack</strong>
 </div>
-
-
 
 
 
