@@ -101,7 +101,7 @@
 * **Objetivo:** Demonstrar domínio completo do desenvolvimento web moderno
 
 
-### [Aplicação de Animações Interativas](https://github.com/FernandoJesuss/Fogos_Artificios)
+### [Conversor de Moedas](https://pjt-converso-moedas.netlify.app/)
 **Interface web com animações CSS e JavaScript avançadas**
 - **Tecnologias:** JavaScript ES6+, Canvas API, CSS3
 - **Foco:** Interatividade, performance front-end, experiência do usuário
