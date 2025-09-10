@@ -85,7 +85,7 @@
 
 ## 💼 Projetos Destacados
 
-### [Portfólio Front-End](https://fernandojesuss.github.io/ProjetoPortifolio/)
+### [Portfólio Front-End](https://projeto-porttfolio.netlify.app/)
 **Interface web responsiva para apresentação de projetos e habilidades**
 - **Tecnologias:** HTML5, CSS3, JavaScript
 - **Foco:** Design responsivo, UX/UI modernas, otimização front-end
