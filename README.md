@@ -22,8 +22,11 @@
 
 ### 🎯 Resultados atingidos
 - Integração de pagamentos via Stripe em app full-stack
-- Experiência validada com usuários reais em suporte técnico
+- Experiência validada com usuários reais em **suporte técnico**
 - +10 projetos publicados no GitHub com foco em performance e responsividade
+- Certificações Microsoft em cloud e segurança
+- Interfaces intuitivas com ênfase em **design responsivo e usabilidade**
+- Em transição estruturada para **Full Stack Developer**  
 
 
 ---
