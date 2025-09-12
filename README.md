@@ -9,7 +9,7 @@
 
 ## 👨‍💼 Perfil Profissional
 
-**Front-End Developer** com experiência em suporte técnico e **certificações Microsoft**. Atualmente em transição para Full Stack, com projetos práticos em React, Node.js e PostgreSQL. Apaixonado por criar interfaces responsivas e escaláveis, unindo UX moderna a soluções técnicas robustas.
+**Front-End Developer** com experiência em suporte técnico e **certificações Microsoft**. Atualmente em transição para Full Stack, com projetos práticos em React, Node.js e MongoDB. Apaixonado por criar interfaces responsivas e escaláveis, unindo UX moderna a soluções técnicas robustas.
 
 
 ### 📋 Informações Profissionais
