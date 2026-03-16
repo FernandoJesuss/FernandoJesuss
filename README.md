@@ -60,7 +60,8 @@ Sistema full-stack de e-commerce com fluxo completo: autenticação por perfil, 
 
 | Login | Home | Admin |
 |-------|------|-------|
-| ![](https://raw.githubusercontent.com/FernandoJesuss/devburger_interface/main/src/assets/Tela%20de%20Login.png) | ![](https://raw.githubusercontent.com/FernandoJesuss/devburger_interface/main/src/assets/Tela%20de%20Home.png) | ![](https://raw.githubusercontent.com/FernandoJesuss/devburger_interface/main/src/assets/Tela%20ADM.png) |
+| ![Login](https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/login_devburguer.png) |  ![Home](https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/home_devburguer.png) | 
+![Admin](https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/painel_admin_devburguer.png) |
 
 ---
 
