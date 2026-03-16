@@ -58,12 +58,16 @@ Sistema full-stack de e-commerce com fluxo completo: autenticação por perfil, 
 
 **Stack:** React · TypeScript · Node.js · PostgreSQL · MongoDB · Stripe · Docker · JWT
 
+<div align="center">
+
 | Login | Home | Admin |
 |-------|------|-------|
-| ![Login](https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/login_devburguer.png) |  ![Home](https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/home_devburguer.png) | 
-![Admin](https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/painel_admin_devburguer.png) |
+| <img src="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/login_mobile_devburguer.png" width="300"/> | <img src="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/home_mobile_devburguer.png" width="300"/> | <img src="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/admin_mobile_devburguer.png" width="300"/> |
+
+</div>
 
 ---
+
 
 ## Certificações Microsoft
 
