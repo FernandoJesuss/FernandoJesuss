@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace">
+  <rect width="1200" height="300" fill="#FFFFFF"/>
+
+  <!-- faint watermark -->
+  <text x="1120" y="90" font-size="120" fill="#F1F5F9" text-anchor="end" font-weight="700">&lt;/&gt;</text>
+
+  <!-- terminal window -->
+  <rect x="40" y="30" width="1120" height="240" rx="14" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="40" y="30" width="1120" height="34" rx="14" fill="#F1F5F9"/>
+  <rect x="40" y="50" width="1120" height="14" fill="#F1F5F9"/>
+  <circle cx="66" cy="47" r="6" fill="#FF5F56"/>
+  <circle cx="86" cy="47" r="6" fill="#FFBD2E"/>
+  <circle cx="106" cy="47" r="6" fill="#27C93F"/>
+  <text x="600" y="52" font-size="13" fill="#94A3B8" text-anchor="middle">fernando@dev:~</text>
+
+  <!-- body -->
+  <g font-size="19">
+    <text x="66" y="102"><tspan fill="#059669">$</tspan><tspan fill="#0F172A" dx="10">whoami</tspan></text>
+    <text x="66" y="128" fill="#0891B2" font-weight="700" font-size="21">Fernando Santos — Frontend Developer · Product</text>
+
+    <text x="66" y="164"><tspan fill="#059669">$</tspan><tspan fill="#0F172A" dx="10">cat sobre.txt</tspan></text>
+    <text x="66" y="190" fill="#475569">10+ anos em TI corporativa (suporte a automação bancária)</text>
+    <text x="66" y="212" fill="#475569">2+ anos construindo interfaces em produção — React &amp; TypeScript</text>
+
+    <text x="66" y="246"><tspan fill="#059669">$</tspan><tspan fill="#0F172A" dx="10">ls certificacoes/</tspan><tspan fill="#7C3AED" dx="14">AZ-900  SC-900  AI-900  DP-900  MB-920</tspan></text>
+  </g>
+
+  <text x="66" y="278" font-size="19">
+    <tspan fill="#059669">$</tspan><tspan fill="#0F172A" dx="10">pwd</tspan><tspan fill="#94A3B8" dx="10">São Paulo, Brasil</tspan><tspan fill="#0891B2" dx="4">_<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.2s" repeatCount="indefinite"/></tspan>
+  </text>
+</svg>
