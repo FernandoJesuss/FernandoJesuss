@@ -1,7 +1,7 @@
 <!-- ===== BANNER (dark/light automático) ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/light.svg">
   <img alt="Fernando Santos" src="https://raw.githubusercontent.com/FernandoJesuss/FernandoJesuss/main/light.svg">
 </picture>
 
