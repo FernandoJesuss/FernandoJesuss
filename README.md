@@ -18,9 +18,16 @@
 
 ## Sobre
 
-Frontend Developer com foco em performance, escalabilidade e entrega de soluções que funcionam em produção. Mais de **10 anos em TI corporativa** — com passagem por multinacional em suporte de automação bancária e sistemas críticos — me deram visão de produto, disciplina técnica e capacidade de trabalhar sob pressão real.
+## 👨‍💻 Sobre
 
-Nos últimos anos direcionei essa bagagem para o desenvolvimento Front-End, construindo aplicações modernas com React e TypeScript. Projeto em destaque: **DevBurguer** — sistema full-stack de lanchonete digital com autenticação JWT, painel administrativo e integração de pagamentos via Stripe.
+Minha carreira em tecnologia começou muito antes do desenvolvimento. Durante mais de **10 anos atuei em TI corporativa**, trabalhando com suporte, automação bancária e sistemas críticos em ambientes de alta responsabilidade. Essa experiência me deu uma base sólida para resolver problemas, pensar em qualidade e desenvolver soluções confiáveis.
+
+Hoje aplico essa bagagem no desenvolvimento Front-End, criando aplicações modernas com **React, TypeScript e JavaScript**, sempre buscando escrever código limpo, escalável e oferecer a melhor experiência para o usuário.
+
+Um dos projetos que melhor representa meu trabalho é o **DevBurguer**, uma aplicação full-stack com autenticação JWT, painel administrativo, gerenciamento de pedidos e integração de pagamentos via Stripe.
+
+Estou sempre em busca de novos desafios, aprendendo continuamente e evoluindo como desenvolvedor para construir produtos que gerem valor para as pessoas e para os negócios.
+
 
 ```
 10+ anos TI Corporativa   ·   2+ anos Dev   ·   5 Certificações Microsoft   ·   São Paulo, Brasil
