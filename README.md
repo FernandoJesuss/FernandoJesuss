@@ -126,7 +126,7 @@ Sistema full-stack de e-commerce com fluxo completo: autenticação por perfil, 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FernandoJesuss&color=0891B2&style=flat-square&label=Profile+Views"/>
   <br/><br/>
-  <strong>Frontend Developer · Product · Disponível para oportunidades · São Paulo</strong>
+  <strong>Frontend Developer · React · TypeScript · São Paulo</strong>
 </div>
 
 
