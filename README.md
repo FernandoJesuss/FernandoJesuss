@@ -16,8 +16,6 @@
 
 ---
 
-## Sobre
-
 ## 👨‍💻 Sobre
 
 Minha carreira em tecnologia começou muito antes do desenvolvimento. Durante mais de **10 anos atuei em TI corporativa**, trabalhando com suporte, automação bancária e sistemas críticos em ambientes de alta responsabilidade. Essa experiência me deu uma base sólida para resolver problemas, pensar em qualidade e desenvolver soluções confiáveis.
@@ -26,11 +24,10 @@ Hoje aplico essa bagagem no desenvolvimento Front-End, criando aplicações mode
 
 Um dos projetos que melhor representa meu trabalho é o **DevBurguer**, uma aplicação full-stack com autenticação JWT, painel administrativo, gerenciamento de pedidos e integração de pagamentos via Stripe.
 
-Estou sempre em busca de novos desafios, aprendendo continuamente e evoluindo como desenvolvedor para construir produtos que gerem valor para as pessoas e para os negócios.
-
+Continuo estudando e desenvolvendo projetos próprios para evoluir tecnicamente e transformar ideias em aplicações que realmente funcionam.
 
 ```
-10+ anos TI Corporativa   ·   2+ anos Dev   ·   5 Certificações Microsoft   ·   São Paulo, Brasil
+10+ anos em TI · Frontend Developer · 5 Certificações Microsoft · São Paulo, Brasil
 ```
 
 ---
